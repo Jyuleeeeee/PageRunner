@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - platform
+  - enemy
+  - ladder
+  - trap
+  - coin
+  - mush
+  - chicken
+  - key
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - platform
+  - player
+  - enemy
+  - background
+  - sky
+  - object
+  - invinciblePlayer
+  - mushroom
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 2781443275
+    locked: 0
+  - name: sky
+    uniqueID: 1404127281
+    locked: 0
+  - name: platform
+    uniqueID: 2907267717
+    locked: 0
+  - name: object
+    uniqueID: 3956223475
+    locked: 0
+  - name: enemy
+    uniqueID: 2898911427
+    locked: 0
+  - name: player
+    uniqueID: 4273603577
+    locked: 0
